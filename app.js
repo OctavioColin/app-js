@@ -1,1 +1,1 @@
-console.log("Hola Mundo\n");
+console.log("Hola Mundo en Node.js desde Openshift\n");
